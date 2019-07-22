@@ -1,0 +1,53 @@
+{
+  "main": "node_modules/expo/AppEntry.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web",
+    "eject": "expo eject"
+  },
+  "dependencies": {
+    "assert": "^1.1.1",
+    "browserify-zlib": "~0.1.4",
+    "console-browserify": "^1.1.0",
+    "constants-browserify": "^1.0.0",
+    "dns.js": "^1.0.1",
+    "domain-browser": "^1.1.1",
+    "events": "^1.0.0",
+    "expo": "^33.0.0",
+    "https-browserify": "~0.0.0",
+    "js-chacha20": "^1.1.0",
+    "node-forge": "^0.8.5",
+    "node-libs-react-native": "^1.0.3",
+    "path-browserify": "0.0.0",
+    "punycode": "^1.2.4",
+    "querystring-es3": "~0.2.0",
+    "react": "16.8.3",
+    "react-dom": "^16.8.6",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-33.0.0.tar.gz",
+    "react-native-crypto": "^2.1.2",
+    "react-native-http": "tradle/react-native-http#834492d",
+    "react-native-level-fs": "^3.0.0",
+    "react-native-os": "^1.0.1",
+    "react-native-randombytes": "^3.5.3",
+    "react-native-tcp": "^3.2.1",
+    "react-native-udp": "^2.1.0",
+    "react-native-web": "^0.11.4",
+    "react-navigation": "^3.11.1",
+    "readable-stream": "1.0.33",
+    "sjcl": "^1.0.8",
+    "socket.io-client": "^2.2.0",
+    "stream-browserify": "^2.0.2",
+    "string_decoder": "~0.10.25",
+    "timers-browserify": "^1.0.1",
+    "tty-browserify": "0.0.0",
+    "url": "~0.10.1",
+    "util": "~0.10.3",
+    "vm-browserify": "0.0.4"
+  },
+  "devDependencies": {
+    "babel-preset-expo": "^5.1.1"
+  },
+  "private": true
+}
